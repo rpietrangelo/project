@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "side project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpietrangelo/project.git"
+  },
+  "author": "Rocco Pietrangelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpietrangelo/project/issues"
+  },
+  "homepage": "https://github.com/rpietrangelo/project#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.3"
+  }
+}
